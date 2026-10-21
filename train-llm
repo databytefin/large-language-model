@@ -1,0 +1,10 @@
+### how to train a LLM model?
+
+1. pretraining
+   - learn lots of data
+     -> predict new token
+2. SFT
+
+3. RLHF
+
+---
